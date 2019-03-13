@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  font-family:monospace;
+  font-style: oblique;
+  font-size: 80px;
+  color:white;
+}
+body{
+  background-color: #EC7063;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+  font-family:monospace;
+}
